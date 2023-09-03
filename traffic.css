@@ -23,7 +23,9 @@
     height:330px ;
     width: 110px;
     border: 8px solid;
-    border-radius: 8%;
-    padding: 0px;
-
+    border-radius: 12%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
