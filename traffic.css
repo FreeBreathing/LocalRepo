@@ -1,0 +1,29 @@
+#d1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    border: 5px solid;
+}
+#d2{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 5px solid;
+}
+#d3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    border: 5px solid;
+}
+#di{
+    height:330px ;
+    width: 110px;
+    border: 8px solid;
+    border-radius: 8%;
+    padding: 0px;
+
+}
