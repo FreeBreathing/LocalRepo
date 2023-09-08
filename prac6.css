@@ -1,0 +1,34 @@
+ul {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+   
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+
+li {
+    list-style-type: none;
+   
+} 
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    display: flex;
+    justify-content: center; /* this is noted to main axix flex items are goes to the center alignment to using justify-content*/
+    align-items: center;  /* this is noted to cross axix flex items are goes to the center alingnment to using align-items*/
+}
+
+.inner {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+
+}

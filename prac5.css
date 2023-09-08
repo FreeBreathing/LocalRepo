@@ -1,0 +1,10 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-image: url(python_photo.jpg);
+    color: white;
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+}
